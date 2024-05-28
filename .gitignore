@@ -15,3 +15,10 @@ helloFunc.py
 helloFunc2.py
 magic8ball.py
 test.py
+globalStatement.py
+localGlobalSameName.py
+samenameerror.py
+samenamelocalglobal.py
+zerodivide.py
+zerodivide2.py
+
